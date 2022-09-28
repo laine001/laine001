@@ -1,20 +1,22 @@
-### Hi there 👋
+### Hi there 
 
+#### 关于
 
-#### about
-
-- 🔭 I’m currently working on hangzhou
-- 🌱 I’m currently learning vue3
-- 🤔 I’m looking for help with fe
-- 💬 Ask me about ...
-- 📫 How to reach me: laine001@163.com
-- ⚡ Fun fact: ..
+- 🔭 base杭州，前端
+- 🤔 求前端坑位...
+-  联系我：laine001@163.com/_laine001
+- 💬 有什么想问的 ...
 
 #### 技术栈：
-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-- ![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+- ![react](https://badges.aleen42.com/src/react.svg)
+- ![Vue.js](https://badges.aleen42.com/src/vue.svg)
+- ![vite](https://badges.aleen42.com/src/vitejs.svg)
+- ![Node.js](https://badges.aleen42.com/src/node.svg)
+- ![Typescript](https://badges.aleen42.com/src/typescript.svg)
+- ![webpack](https://badges.aleen42.com/src/webpack.svg)
+- ...
 
-#### doing
-- 🏀 this has an ui frame for vue3 named [ikui](https://laine001.github.io/ik-ui)
+#### 正在做
+-  一个`vue3`、`vite`的组件库 [ikui](https://laine001.github.io/ik-ui)
 
 [![laine's github stats](https://github-readme-stats.vercel.app/api?username=LAINE001)](https://github.com/anuraghazra/github-readme-stats)
