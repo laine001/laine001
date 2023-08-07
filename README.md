@@ -11,6 +11,6 @@
 ![react](https://badges.aleen42.com/src/react.svg) ![Vue.js](https://badges.aleen42.com/src/vue.svg) ![Node.js](https://badges.aleen42.com/src/node.svg)
 
 #### Todo | Doing
--  simple ui [ikui](https://laine001.github.io/ik-ui)
+-  simple ui [ikunui](https://laine001.github.io/ikun-ui)
 
 [![laine's github stats](https://github-readme-stats.vercel.app/api?username=LAINE001)](https://github.com/anuraghazra/github-readme-stats)
