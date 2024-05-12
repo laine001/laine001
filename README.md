@@ -2,10 +2,10 @@
 
 #### About
 
- 🔭 Hangzhou base, FE.
- 🤔 Need FE HC...
- 📞 laine001@163.com
- 💬 any question ...
+- 🔭 Hangzhou base, FE.
+- 🤔 Need FE HC...
+- 📞 laine001@163.com
+- 💬 any question ...
 
 #### Technology stack：
 ![react](https://badges.aleen42.com/src/react.svg) ![Vue.js](https://badges.aleen42.com/src/vue.svg) ![Node.js](https://badges.aleen42.com/src/node.svg)
