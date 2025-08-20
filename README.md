@@ -13,6 +13,6 @@
 #### Todo | Doing
 -  simple ui [ikunui](https://laine001.github.io/ikun-ui)
 -  my Blog [laine's Blog](https://laine001.netlify.app/) or [laine's Blog](https://laine001.github.io/blog/)
--  ITPMP site [ITPMP](https://itpmp.cc)
+-  ITPMP site [https://itpmp.cc](https://itpmp.cc)
 
 [![laine's github stats](https://github-readme-stats.vercel.app/api?username=LAINE001)](https://github.com/anuraghazra/github-readme-stats)
